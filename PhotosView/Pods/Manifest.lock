@@ -1,0 +1,16 @@
+PODS:
+  - objectiveflickr (2.0.4)
+
+DEPENDENCIES:
+  - objectiveflickr
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - objectiveflickr
+
+SPEC CHECKSUMS:
+  objectiveflickr: aed169dae1eb5a5550ca78f7efd7ccde2e4c26e5
+
+PODFILE CHECKSUM: 12eefd05de85782951860a87bd431af405f7d149
+
+COCOAPODS: 1.5.0
